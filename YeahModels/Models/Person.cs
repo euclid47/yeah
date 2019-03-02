@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace YeahModels.Models
+﻿namespace YeahModels.Models
 {
     public class Person : BaseEntity
     {

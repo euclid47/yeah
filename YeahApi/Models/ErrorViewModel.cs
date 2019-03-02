@@ -1,5 +1,3 @@
-using System;
-
 namespace YeahApi.Models
 {
     public class ErrorViewModel
